@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-learning-localstack
+  annotations:
+    github.com/project-slug: jeff-hull-ultimate/terraform-learning-localstack
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
